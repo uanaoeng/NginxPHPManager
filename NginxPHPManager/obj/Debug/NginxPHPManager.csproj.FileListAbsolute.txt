@@ -1,0 +1,9 @@
+c:\users\do\documents\visual studio 2013\Projects\NginxPHPManager\NginxPHPManager\bin\Debug\NginxPHPManager.exe.config
+c:\users\do\documents\visual studio 2013\Projects\NginxPHPManager\NginxPHPManager\bin\Debug\NginxPHPManager.exe
+c:\users\do\documents\visual studio 2013\Projects\NginxPHPManager\NginxPHPManager\bin\Debug\NginxPHPManager.pdb
+c:\users\do\documents\visual studio 2013\Projects\NginxPHPManager\NginxPHPManager\obj\Debug\NginxPHPManager.mainForm.resources
+c:\users\do\documents\visual studio 2013\Projects\NginxPHPManager\NginxPHPManager\obj\Debug\NginxPHPManager.Properties.Resources.resources
+c:\users\do\documents\visual studio 2013\Projects\NginxPHPManager\NginxPHPManager\obj\Debug\NginxPHPManager.csproj.GenerateResource.Cache
+c:\users\do\documents\visual studio 2013\Projects\NginxPHPManager\NginxPHPManager\obj\Debug\NginxPHPManager.exe
+c:\users\do\documents\visual studio 2013\Projects\NginxPHPManager\NginxPHPManager\obj\Debug\NginxPHPManager.pdb
+c:\users\do\documents\visual studio 2013\Projects\NginxPHPManager\NginxPHPManager\obj\Debug\NginxPHPManager.csprojResolveAssemblyReference.cache

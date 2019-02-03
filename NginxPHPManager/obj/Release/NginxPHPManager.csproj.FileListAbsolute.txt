@@ -1,0 +1,9 @@
+c:\Users\Do\Documents\Visual Studio 2013\Projects\NginxPHPManager\NginxPHPManager\bin\Release\NginxPHPManager.exe.config
+c:\Users\Do\Documents\Visual Studio 2013\Projects\NginxPHPManager\NginxPHPManager\bin\Release\NginxPHPManager.exe
+c:\Users\Do\Documents\Visual Studio 2013\Projects\NginxPHPManager\NginxPHPManager\bin\Release\NginxPHPManager.pdb
+c:\Users\Do\Documents\Visual Studio 2013\Projects\NginxPHPManager\NginxPHPManager\obj\Release\NginxPHPManager.csprojResolveAssemblyReference.cache
+c:\Users\Do\Documents\Visual Studio 2013\Projects\NginxPHPManager\NginxPHPManager\obj\Release\NginxPHPManager.mainForm.resources
+c:\Users\Do\Documents\Visual Studio 2013\Projects\NginxPHPManager\NginxPHPManager\obj\Release\NginxPHPManager.Properties.Resources.resources
+c:\Users\Do\Documents\Visual Studio 2013\Projects\NginxPHPManager\NginxPHPManager\obj\Release\NginxPHPManager.csproj.GenerateResource.Cache
+c:\Users\Do\Documents\Visual Studio 2013\Projects\NginxPHPManager\NginxPHPManager\obj\Release\NginxPHPManager.exe
+c:\Users\Do\Documents\Visual Studio 2013\Projects\NginxPHPManager\NginxPHPManager\obj\Release\NginxPHPManager.pdb

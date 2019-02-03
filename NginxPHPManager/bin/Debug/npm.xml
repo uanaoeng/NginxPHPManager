@@ -1,0 +1,5 @@
+<settings>
+	<nginxPath>Z:\www\nginx</nginxPath>
+	<phpPath>Z:\www\php</phpPath>
+	<arguForPHPcgi>-b 127.0.0.1:9000 -c Z:\www\php\php.ini</arguForPHPcgi>
+</settings>
