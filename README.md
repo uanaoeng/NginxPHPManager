@@ -29,7 +29,7 @@ phpPath 对应 php-cgi.exe 文件所在目录；
 arguForPHPcgi 对应要传递给 php-cgi.exe 的参数。
 需要根据自己的实际情况进行修改。
 
-三、已知但沿未修改的 Bug
+三、已知但尚未修改的 Bug
 - 如果 npm.xml 文件不存在，程序将无法启动。
 
 三、联系方法
@@ -38,5 +38,5 @@ arguForPHPcgi 对应要传递给 php-cgi.exe 的参数。
 开源项目地址：
 http://github.com/uanaoeng/NginxPHPManager
 
-开发者作者邮箱：
+开发者邮箱：
 uanaoeng@outlook.com
